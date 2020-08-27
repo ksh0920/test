@@ -8,5 +8,10 @@
 </head>
 <body>
 <h1>write.jsp</h1>
+
+
+A-edit<br>
+A-edit<br>
+
 </body>
 </html>
